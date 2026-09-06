@@ -286,8 +286,3 @@ For every problem, ask:
 **Where should the variation live?**
 
 **How can I make the design easier to extend without breaking existing behavior?**
-
-```
-
-If you're building this specifically for **senior/principal-level interviews**, I'd recommend making the README more rigorous around **concurrency, extensibility, API boundaries, failure handling, observability, and design trade-offs** rather than treating it as a collection of Design Pattern exercises.
-```
